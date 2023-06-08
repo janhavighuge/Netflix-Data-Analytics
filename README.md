@@ -22,7 +22,6 @@ Data cleaning and preprocessing
 Exploratory data analysis
 Visualizations of key insights
 Statistical analysis and hypothesis testing
-Feel free to modify the code or add your own analyses based on your specific requirements.
 
 ## Resources
 The project utilizes the Netflix dataset available from the following source:
